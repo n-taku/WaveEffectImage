@@ -1,2 +1,2 @@
-# WaveEffect
+# WaveEffectImage
 Test
