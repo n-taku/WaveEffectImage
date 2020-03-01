@@ -4,4 +4,5 @@
 ## 使い方
 - このリポジトリの中の4つのファイル，ListPool.cs,ObjectPool.cs,Subdivide.cs,WaveMeshEffect.csを自分のプロジェクトにコピーする．
 - WaveMeshEffectコンポーネントを波エフェクトさせたいImageなどにつけて，コンポーネントのインスペクタからWaveInfoを編集する．
+- [blog](https://unitech.hatenablog.com/entry/2018/08/25/200305)
 - ![wavemesheffect1](https://user-images.githubusercontent.com/11411789/44617606-72429500-a8a0-11e8-8d8b-88db5b9ca570.png)
